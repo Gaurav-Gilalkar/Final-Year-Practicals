@@ -1,0 +1,4 @@
+1. ggmtp1.c (DFA program)
+2. ggccp2alex.l (A simple analyser)
+3. ggccp2.lex (A parser for C language)
+4. cal1.l and cal1.y (parser for calculator)
