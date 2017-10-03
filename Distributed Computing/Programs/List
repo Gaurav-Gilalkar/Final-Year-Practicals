@@ -2,3 +2,7 @@
 2. GGFileClient.java, GGFileServer.java (Message passing)
 3. GGByzantine (Byzantine algorithm)
 4. Adder.java, AdderRemote.java, MyServer.java, MyClient.java (stubs)
+5. dc5s.java, dc5c.java
+6. page1.c
+7. Threadexample.java
+8. Anele.java
